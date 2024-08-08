@@ -1,13 +1,7 @@
-## Hi I'm Nathan 👋
+## Hi I'm Nathan Mendoza 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: (nl.nathan.lloyd.mendoza@gmail.com)
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on: Unemployed
+- 🌱 I’m currently learning: React.js
+- 👯 I’m looking to collaborate on: None
+- 💡  My Technical Skills: HTML, CSS, JavaScript, Php, Laravel, Bootstrap, Java, MySql, GIT versioning
+- 📫 How to reach me:  <nl.nathan.lloyd.mendoza@gmail.com>
