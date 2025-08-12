@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi I'm Nathan Mendoza 👋<br><br> 🔭 I’m currently working on: Unemployed<br> 🌱 I’m currently learning: React.js<br> 👯 I’m looking to collaborate on: None<br> 📫 How to reach me:  <nl.nathan.lloyd.mendoza@gmail.com>
+## Hi I'm Nathan Mendoza 👋<br><br> 🔭 I’m currently working on: WideOut Workforces Inc.<br> 🌱 I’m currently learning: MERN Stack<br> 👯 I’m looking to collaborate on: None<br> 📫 How to reach me:  <nl.nathan.lloyd.mendoza@gmail.com>
 
 
 # 💻 Tech Stack:
